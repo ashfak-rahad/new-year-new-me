@@ -1,0 +1,522 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.think-out-box-concepts-with-li-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 808px;
+  object-fit: cover;
+}
+.all-thinks-are,
+.there-are-many {
+  position: absolute;
+  text-align: right;
+  display: inline-block;
+}
+.all-thinks-are {
+  top: 216px;
+  left: 845px;
+  font-size: 65px;
+  color: #151414;
+  width: 525px;
+}
+.there-are-many {
+  top: 468px;
+  left: 876px;
+  line-height: 26px;
+  width: 494px;
+}
+.group-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 160px;
+  height: 64px;
+}
+.contact-us {
+  position: absolute;
+  top: 21px;
+  left: 26px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Work Sans";
+  color: #005fac;
+  text-align: right;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 578px;
+  left: 1210px;
+  width: 160px;
+  height: 64px;
+}
+.all-thinks-are1 {
+  position: absolute;
+  top: 216px;
+  left: 845px;
+  font-size: 65px;
+  display: inline-block;
+  text-align: right;
+  width: 525px;
+}
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 2221.96px;
+  left: 230px;
+  border-radius: 8px;
+  width: 1140px;
+  height: 300px;
+}
+.frame-child {
+  object-fit: cover;
+}
+.frame-item {
+  background: linear-gradient(90deg, #005fac, rgba(0, 95, 172, 0));
+}
+.awlays-keep-a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 459px;
+}
+.call-now {
+  position: absolute;
+  top: 21px;
+  left: 36px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Work Sans";
+  color: #005fac;
+  text-align: center;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 118px;
+  left: 0;
+  width: 160px;
+  height: 64px;
+}
+.awlays-keep-a-positive-mindset-parent {
+  position: absolute;
+  top: 2280.96px;
+  left: 294px;
+  width: 459px;
+  height: 182px;
+  font-size: 40px;
+}
+.frame-inner,
+.future {
+  position: absolute;
+  left: 0;
+}
+.frame-inner {
+  top: 2651.96px;
+  background-color: #151414;
+  width: 1600px;
+  height: 577px;
+}
+.future {
+  top: 0;
+  font-size: 45px;
+  color: #f8f8f8;
+}
+.email-infogmailcom,
+.there-are-many1 {
+  position: absolute;
+  left: 0;
+  line-height: 26px;
+}
+.there-are-many1 {
+  top: 69px;
+  display: inline-block;
+  width: 485px;
+}
+.email-infogmailcom {
+  top: 0;
+}
+.email-infogmailcom-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 184px;
+  height: 26px;
+}
+.phone-01500 {
+  border: 0;
+  font-family: "Work Sans";
+  font-size: 16px;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 26px;
+  color: #fff;
+  text-align: left;
+}
+.group-inner,
+.phone-01500-00-00-00-wrapper {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 186px;
+  height: 26px;
+}
+.group-inner {
+  top: 100px;
+  width: 175px;
+  height: 46px;
+}
+.future-parent,
+.group-parent {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  width: 186px;
+  height: 146px;
+}
+.future-parent {
+  top: 2781.96px;
+  left: 230px;
+  width: 485px;
+  height: 317px;
+}
+.rectangle-div,
+.subscribe {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.subscribe {
+  font-weight: 600;
+}
+.rectangle-div {
+  border-radius: 8px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 325px;
+  height: 64px;
+}
+.enter-your-email {
+  position: absolute;
+  top: 21px;
+  left: 21px;
+}
+.rectangle-button,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 325px;
+  height: 64px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #005fac;
+  border-radius: 8px;
+  width: 170.11px;
+}
+.subscribe1 {
+  position: absolute;
+  top: 20px;
+  left: 36.02px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 98.06px;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 170.11px;
+  height: 64px;
+}
+.group-container {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 325px;
+  height: 144px;
+  font-size: 18px;
+  color: #f3f3f3;
+}
+.subscribe-parent {
+  position: absolute;
+  top: 2781.96px;
+  left: 1046px;
+  width: 325px;
+  height: 204px;
+  font-size: 25px;
+}
+.i-want-to,
+.web-development {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.i-want-to {
+  top: 51px;
+  left: 47px;
+  font-size: 25px;
+  font-weight: 500;
+  color: #737272;
+}
+.web-development-parent {
+  position: absolute;
+  top: 119.96px;
+  left: 0;
+  width: 270px;
+  height: 80px;
+}
+.group-icon,
+.group-parent1 {
+  position: absolute;
+  top: 0;
+  left: 401px;
+  width: 92.96px;
+  height: 92.96px;
+}
+.group-parent1 {
+  top: 3px;
+  left: 0;
+  width: 493.96px;
+  height: 199.96px;
+}
+.i-want-to1,
+.javascript {
+  position: absolute;
+  top: 0;
+  left: 13px;
+}
+.i-want-to1 {
+  top: 51px;
+  left: 0;
+  font-size: 25px;
+  font-weight: 500;
+  color: #737272;
+}
+.javascript-parent {
+  position: absolute;
+  top: 111px;
+  left: 292px;
+  width: 181px;
+  height: 80px;
+}
+.group-child1,
+.group-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 92.96px;
+  height: 92.96px;
+}
+.group-parent2 {
+  top: 6px;
+  left: 64px;
+  width: 473px;
+  height: 191px;
+}
+.ecommerce,
+.i-want-to2 {
+  position: absolute;
+  top: 117px;
+  left: 20px;
+}
+.i-want-to2 {
+  top: 168px;
+  left: 0;
+  font-size: 25px;
+  font-weight: 500;
+  color: #737272;
+}
+.ecommerce-parent,
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 61px;
+  width: 92.96px;
+  height: 92.96px;
+}
+.ecommerce-parent {
+  left: 927px;
+  width: 214px;
+  height: 197px;
+}
+.i-want-to3,
+.smoking-habit {
+  position: absolute;
+  top: 117px;
+  left: 0;
+}
+.i-want-to3 {
+  top: 168px;
+  left: 27px;
+  font-size: 25px;
+  font-weight: 500;
+  color: #737272;
+}
+.stop-sign-1-icon {
+  position: absolute;
+  top: 0;
+  left: 63px;
+  width: 93px;
+  height: 93px;
+  overflow: hidden;
+}
+.group-div,
+.smoking-habit-parent {
+  position: absolute;
+  top: 0;
+  left: 623px;
+  width: 218px;
+  height: 197px;
+}
+.group-div {
+  top: 1889px;
+  left: 230px;
+  width: 1141px;
+  height: 202.96px;
+  text-align: center;
+  font-size: 30px;
+  color: #151414;
+}
+.contrary-to-popular,
+.my-failures-of {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.contrary-to-popular {
+  top: 118px;
+  line-height: 26px;
+  width: 416px;
+}
+.my-failures-of {
+  top: 0;
+  font-size: 40px;
+  color: #151414;
+  width: 288px;
+}
+.contrary-to-popular1 {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  line-height: 26px;
+}
+.check-1-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.contrary-to-popular-belief-is-parent,
+.contrary-to-popular-belief-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 349px;
+  height: 26px;
+}
+.contrary-to-popular-belief-parent {
+  top: 34px;
+  width: 240px;
+}
+.contrary-to-popular-is-not-s-parent {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 306px;
+  height: 26px;
+}
+.contrary-to-popular-belief-is-group {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  width: 349px;
+  height: 26px;
+}
+.contrary-to-popular-simply-parent,
+.group-parent4 {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 247px;
+  height: 26px;
+}
+.group-parent4 {
+  top: 238px;
+  width: 349px;
+  height: 162px;
+}
+.contrary-to-popular-belief-lo-parent {
+  position: absolute;
+  top: 239px;
+  left: 656px;
+  width: 416px;
+  height: 400px;
+}
+.group-child3,
+.group-parent3 {
+  position: absolute;
+  height: 723.3px;
+}
+.group-child3 {
+  top: 0;
+  left: 0;
+  width: 569px;
+  object-fit: cover;
+}
+.group-parent3 {
+  top: 939px;
+  left: 206px;
+  width: 1072px;
+  color: #444343;
+}
+.my-plans {
+  position: absolute;
+  top: 1792px;
+  left: 765px;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+}
+.think-out-box-concepts-with-li-parent {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3229px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Work Sans";
+}
