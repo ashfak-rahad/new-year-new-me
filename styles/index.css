@@ -13,7 +13,7 @@ body {
 .all-thinks-are,
 .there-are-many {
   position: absolute;
-  text-align: right;
+  text-align: left;
   display: inline-block;
 }
 .all-thinks-are {
@@ -43,8 +43,8 @@ body {
 }
 .contact-us {
   position: absolute;
-  top: 21px;
-  left: 26px;
+  top: 20px;
+  left: 23px;
   font-size: 20px;
   font-weight: 600;
   font-family: "Work Sans";
@@ -68,7 +68,7 @@ body {
   left: 845px;
   font-size: 65px;
   display: inline-block;
-  text-align: right;
+  text-align: left;
   width: 525px;
 }
 .frame-child,
@@ -101,7 +101,7 @@ body {
   font-weight: 600;
   font-family: "Work Sans";
   color: #005fac;
-  text-align: center;
+  text-align:right;
 }
 .rectangle-group {
   cursor: pointer;
